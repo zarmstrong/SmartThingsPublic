@@ -41,8 +41,8 @@ metadata {
 		
 		attribute "lastCheckIn", "string"
 		attribute "pendingChanges", "string"
-		
-		fingerprint mfr:"0371", prod:"0102", model:"0005", deviceJoinName: "Aeotec TriSensor"
+
+		fingerprint mfr:"0072", prod:"0503", model:"7101", deviceJoinName: "Aeotec TriSensor"
 	}
 	
 	tiles(scale: 2) {
